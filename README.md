@@ -17,6 +17,7 @@ All services are containerized using Docker for seamless local development and d
    - Use the provided `.env.example` as a template.  
    - Replace `DB_PASSWORD` value with your own.
 
+
 2. **Start the Application**  
 
    Run the following command from the project root to build and start all services:
