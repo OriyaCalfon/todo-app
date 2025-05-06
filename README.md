@@ -1,4 +1,4 @@
-# Todo App (Full Stack Dockerized)
+## Todo App (Full Stack Dockerized)
 
 A full-stack task management application featuring a clean and responsive UI, built with a React client, Node.js + Express server, and PostgreSQL database.
 All services are containerized using Docker for seamless local development and deployment.
